@@ -17,7 +17,7 @@
 
 ## 🛠️ Projects
 
-### **📊 Netflix Dashboard (Power BI)**
+### **📊 Netflix Case Study**
 📌 **Overview:** Built an interactive Power BI dashboard analyzing Netflix content trends, genres, and regional availability.
 - **Used SQL** to clean and preprocess large datasets.
 - **Created calculated measures in DAX** to analyze trends over time.
