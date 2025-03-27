@@ -11,7 +11,7 @@
 - **Ratings**: The majority of content is rated TV-MA, targeting mature audiences. Countries like the US have a wider variety of ratings, while other countries have very limited ratings for children.
 
 
-🔗 [View Project]([https://github.com/yourgithub/netflix-dashboard](https://github.com/ANIKET010pixel/Netflix-Business-Case-Study)
+🔗 [View Project](https://github.com/yourgithub/netflix-dashboard](https://github.com/ANIKET010pixel/Netflix-Business-Case-Study)
 
 ### Plant Disease Detection Using Deep Learning and Explainable AI (XAI)
 📌 **Overview:** Developed a deep learning model to autonomously detect plant diseases from leaf images using Explainable AI (XAI) with LIME.
