@@ -18,7 +18,7 @@
 
 ## 🛠️ Projects
 
-### **📊 Netflix Case Study**
+### **📊 Netflix Business Case Study**
 📌 **Overview:** Built an interactive Power BI dashboard analyzing Netflix content trends, genres, and regional availability.
 - **Used SQL** to clean and preprocess large datasets.
 - **Created calculated measures in DAX** to analyze trends over time.
@@ -26,12 +26,13 @@
 
 🔗 [View Project](https://github.com/yourgithub/netflix-dashboard)
 
-# [Plant Disease Detection Using Deep Learning and Explainable AI (XAI)
+# Plant Disease Detection Using Deep Learning and Explainable AI (XAI)
 📌 **Overview:** Developed a deep learning model to autonomously detect plant diseases from leaf images using Explainable AI (XAI) with LIME.
 - **Utilized deep learning techniques** to train the model on a dataset of 2000 augmented images of Custard Apple leaves.
 - **Implemented LIME** for manual filtration of the dataset to enhance accuracy and interpretability, achieving 94% accuracy (an improvement of 20%-22%).
 - **Enabled explainable predictions** by identifying key areas in images crucial for disease detection, improving model transparency and revealing dataset biases.
 - **Deployed the model** through a web application using Flask, allowing users to upload plant images and receive accurate disease diagnoses and treatment recommendations.
+
 🔗 [View Project](https://github.com/ANIKET010pixel/Enhanced-Plant-Disease-Detection-using-Explainable-AI-Technique-)
 
 ---
