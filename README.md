@@ -1,28 +1,21 @@
-# 📊 Data Analyst | Data Scientist
-
-🚀 Passionate about turning raw data into actionable insights! Skilled in **Power BI, SQL, Python, and Data Visualization**.
-
----
-
-## 🔥 Work Experience
-
-### **Data Analyst  | Trames Pvt Ltd** _(Dec 2023 - Present)_
-- Identified process improvements, optimizing Power BI operations and reducing BI service costs by 60%.  
-- Built a dynamic carbon emissions tracking system integrating air and ocean transport data to measure environmental impact and optimize sustainability strategies, reducing emissions by 15%.
-- Developed a real-time Geofencing solution using SQL and Power BI to monitor vessel traffic at specified coordinates, improving operational efficiency by reducing manual tracking time by 40%.
-- Developed and optimized Power BI dashboards with Row-Level Security (RLS), increasing data security and access efficiency by 50%.  
-- Optimized SQL queries, reducing data processing time by 35%, leading to faster report generation and improved operational efficiency.  
-- Implemented a Power Apps solution for real-time data entry, integrating a gateway and scheduled refresh to automate data updates across multiple Power BI dashboards, enhancing reporting efficiency.
-
----
-
-## 🛠️ Projects
+🛠️ Projects
 
 ### 📊 Netflix Business Case Study 
-📌 **Overview:** Built an interactive Power BI dashboard analyzing Netflix content trends, genres, and regional availability.
-- **Used SQL** to clean and preprocess large datasets.
-- **Created calculated measures in DAX** to analyze trends over time.
-- **Designed custom visuals** for intuitive insights.
+📌 **Overview:** Conducted a comprehensive analysis of Netflix’s content library to identify trends in movie and TV show distribution, genre preferences, and geographical variations, providing actionable business insights and recommendations.
+
+- Analyzed a dataset containing Netflix’s global content to identify the shift from movies to TV shows, observing that TV shows surpassed movies in 2020.
+- Explored genre preferences across different countries, revealing that international movies, dramas, and comedies dominate Netflix's global library, while some countries have very specific content preferences.
+- Conducted detailed analysis on Netflix's ratings distribution, showing that most content is targeted at mature audiences (TV-MA), with limited availability for children’s content in many regions.
+- Provided actionable business insights, including recommendations for expanding country-specific genres, improving the content mix for underrepresented age groups, and addressing regional gaps in content.
+- Developed visualizations to represent content distribution, genre preferences, and geographical trends, helping stakeholders understand Netflix’s content dynamics and make informed decisions.
+
+📊 Key Findings:
+- **Content Distribution**: Around 70% of Netflix content is Movies and around 30% is TV Shows.
+- **Yearly Content Uploads**: A surge in content uploads began in 2015, with 2019 marking the highest number of uploads. A drop in content was observed in 2020 and 2021, likely due to the pandemic.
+- **Global Content**: Netflix hosts content from 122 countries, with the United States contributing almost 37% of the total content.
+- **Genres**: International Movies and TV Shows, Dramas, and Comedies are the top 3 genres across both Movies and TV Shows.
+- **Ratings**: The majority of content is rated TV-MA, targeting mature audiences. Countries like the US have a wider variety of ratings, while other countries have very limited ratings for children.
+
 
 🔗 [View Project]([https://github.com/yourgithub/netflix-dashboard](https://github.com/ANIKET010pixel/Netflix-Business-Case-Study))
 
