@@ -1,4 +1,4 @@
-🛠️ Projects
+#🛠️ Projects
 
 ### 📊 Netflix Business Case Study 
 📌 **Overview:** Conducted a comprehensive analysis of Netflix’s content library to identify trends in movie and TV show distribution, genre preferences, and geographical variations, providing actionable business insights and recommendations.
