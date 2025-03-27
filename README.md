@@ -7,7 +7,7 @@
 
 ## 🔥 Work Experience
 
-### **Data Analyst Intern | Trames Pvt Ltd** _(Dec 2023 - Oct 2024)_
+### **Data Analyst  | Trames Pvt Ltd** _(Dec 2023 - Present)_
 - **Optimized complex logistics data** by cleaning and transforming 50+ tables, ensuring data integrity for business intelligence.
 - **Developed 300+ Power BI dashboards** for international clients, enabling data-driven decisions across supply chain operations.
 - **Built DAX & M Query calculations** to create custom KPIs, reducing report generation time by **40%**.
