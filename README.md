@@ -3,12 +3,6 @@
 ### 📊 Netflix Business Case Study 
 📌 **Overview:** Conducted a comprehensive analysis of Netflix’s content library to identify trends in movie and TV show distribution, genre preferences, and geographical variations, providing actionable business insights and recommendations.
 
-- Analyzed a dataset containing Netflix’s global content to identify the shift from movies to TV shows, observing that TV shows surpassed movies in 2020.
-- Explored genre preferences across different countries, revealing that international movies, dramas, and comedies dominate Netflix's global library, while some countries have very specific content preferences.
-- Conducted detailed analysis on Netflix's ratings distribution, showing that most content is targeted at mature audiences (TV-MA), with limited availability for children’s content in many regions.
-- Provided actionable business insights, including recommendations for expanding country-specific genres, improving the content mix for underrepresented age groups, and addressing regional gaps in content.
-- Developed visualizations to represent content distribution, genre preferences, and geographical trends, helping stakeholders understand Netflix’s content dynamics and make informed decisions.
-
 📊 Key Findings:
 - **Content Distribution**: Around 70% of Netflix content is Movies and around 30% is TV Shows.
 - **Yearly Content Uploads**: A surge in content uploads began in 2015, with 2019 marking the highest number of uploads. A drop in content was observed in 2020 and 2021, likely due to the pandemic.
